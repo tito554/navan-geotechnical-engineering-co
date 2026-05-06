@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Navan
+
+> Geotechnical engineering services in Navan, Ireland.
+
+## Services
+- [Anchors](https://navan.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://navan.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://navan.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://navan.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://navan.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://navan.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://navan.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://navan.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://navan.geotechnical-engineering.co/footings/)
+- [Foundations](https://navan.geotechnical-engineering.co/foundations/)
+- [Grain Size](https://navan.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://navan.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://navan.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://navan.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://navan.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://navan.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://navan.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://navan.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://navan.geotechnical-engineering.co/masw/)
+- [Mat Foundations](https://navan.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://navan.geotechnical-engineering.co/piles/)
+- [Proctor Tests](https://navan.geotechnical-engineering.co/proctor-tests/)
+- [Resistivity](https://navan.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://navan.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://navan.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://navan.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://navan.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://navan.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://navan.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://navan.geotechnical-engineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://navan.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://navan.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://navan.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://navan.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://navan.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://navan.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://navan.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://navan.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://navan.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://navan.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Navan, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
